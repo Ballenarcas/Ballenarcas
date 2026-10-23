@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> ·
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://github.com/Ballenarcas">GitHub</a> ·
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/%C3%A1ngel-espada-jim%C3%A9nez-0998a3405/)">LinkedIn</a> ·
+  <a href="mailto:angelespada23@gmail.com">Email</a>
 </p>
 
 ---
