@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/Ballenarcas">GitHub</a> ·
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/%C3%A1ngel-espada-jim%C3%A9nez-0998a3405/)">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/%C3%A1ngel-espada-jim%C3%A9nez-0998a3405">LinkedIn</a> ·
   <a href="mailto:angelespada23@gmail.com">Email</a>
 </p>
 
@@ -67,14 +67,14 @@ A food and nutrition application built with React, FastAPI, and Supabase.
 
 **Tech:** React · FastAPI · Supabase
 
-[View repository]([YOUR_SET_AND_PLATE_REPOSITORY_URL](https://github.com/Ballenarcas/12.05-set_plate.git))
+[View repository](https://github.com/Ballenarcas/12.05-set_plate.git)
 
 ### 🗳️ Votify
 A voting application built with a focus on clean architecture and separation between the client and API.
 
 **Tech:** Blazor · .NET · PostgreSQL
 
-[View repository]([YOUR_VOTIFY_REPOSITORY_URL](https://github.com/Ballenarcas/Votify-DigitalForge-11.08.git))
+[View repository](https://github.com/Ballenarcas/Votify-DigitalForge-11.08.git)
 
 ## 🤖 Interests
 
