@@ -67,16 +67,14 @@ A food and nutrition application built with React, FastAPI, and Supabase.
 
 **Tech:** React · FastAPI · Supabase
 
-[View repository](YOUR_SET_AND_PLATE_REPOSITORY_URL)
+[View repository]([YOUR_SET_AND_PLATE_REPOSITORY_URL](https://github.com/Ballenarcas/12.05-set_plate.git))
 
 ### 🗳️ Votify
 A voting application built with a focus on clean architecture and separation between the client and API.
 
 **Tech:** Blazor · .NET · PostgreSQL
 
-[View repository](YOUR_VOTIFY_REPOSITORY_URL)
-
----
+[View repository]([YOUR_VOTIFY_REPOSITORY_URL](https://github.com/Ballenarcas/Votify-DigitalForge-11.08.git))
 
 ## 🤖 Interests
 
@@ -84,16 +82,3 @@ A voting application built with a focus on clean architecture and separation bet
 - Software architecture and maintainable applications
 - Exploring new AI models and development workflows
 - Learning by building practical projects
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <em>Curious by nature. Engineer by mindset. Always building. 🚀</em>
-</p>
